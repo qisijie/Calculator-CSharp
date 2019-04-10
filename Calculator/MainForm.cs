@@ -329,36 +329,7 @@ namespace Calculator
         {
             which = v.v3;
         }
-
-        /*
-        private void nonec_CheckedChanged(object sender, EventArgs e)
-        {
-            select = Selected.none;
-            cleanall();
-
-            csmode = cs.none;
-            sc();
-        }
-
-        private void triangle_CheckedChanged(object sender, EventArgs e)
-        {
-            select = Selected.triangle;
-            cleanall();
-
-            csmode = cs.area;
-            sc();
-        }
-
-        private void parallelogramc_CheckedChanged(object sender, EventArgs e)
-        {
-            select = Selected.parallelogram;
-            cleanall();
-
-            csmode = cs.area;
-            sc();
-        }
-        */
-
+        
         private void 我的Github空间ToolStripMenuItem_Click(object sender, EventArgs e)
         {
             System.Diagnostics.Process.Start("https://github.com/qisijie");
@@ -435,35 +406,7 @@ namespace Calculator
                     break;
             }
         }
-
-        /*
-        private void squarec_CheckedChanged(object sender, EventArgs e)
-        {
-            select = Selected.square;
-            cleanall();
-
-            csmode = cs.area;
-            sc();
-        }
-
-        private void trapeziumc_CheckedChanged(object sender, EventArgs e)
-        {
-            select = Selected.trapezium;
-            cleanall();
-
-            csmode = cs.area;
-            sc();
-        }
-
-        private void rectanglec_CheckedChanged(object sender, EventArgs e)
-        {
-            select = Selected.rectangle;
-            cleanall();
-
-            csmode = cs.area;
-            sc();
-        }
-        */
+        
         private void modelll_SelectedIndexChanged(object sender, EventArgs e)
         {
             switch (modelll.Text)
@@ -547,27 +490,7 @@ namespace Calculator
                     break;
             }
         }
-
-        /*
-        private void circlec_CheckedChanged(object sender, EventArgs e)
-        {
-            select = Selected.circle;
-            cleanall();
-
-            csmode = cs.area;
-            sc();
-        }
-
-        private void ringc_CheckedChanged(object sender, EventArgs e)
-        {
-            select = Selected.ring;
-            cleanall();
-
-            csmode = cs.area;
-            sc();
-        }
-        */
-
+        
         private void 我的个人网站ToolStripMenuItem_Click(object sender, EventArgs e)
         {
             System.Diagnostics.Process.Start("http://light.abdosoft.cn");
