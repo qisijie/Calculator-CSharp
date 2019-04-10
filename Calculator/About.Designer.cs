@@ -104,7 +104,7 @@
             this.labelVersion.Name = "labelVersion";
             this.labelVersion.Size = new System.Drawing.Size(317, 23);
             this.labelVersion.TabIndex = 0;
-            this.labelVersion.Text = "Release version 1.1 信息技术大赛版";
+            this.labelVersion.Text = "Release version 1.2(snow leopard) ";
             this.labelVersion.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
             // labelCopyright
@@ -132,7 +132,7 @@
             this.labelCompanyName.Name = "labelCompanyName";
             this.labelCompanyName.Size = new System.Drawing.Size(317, 23);
             this.labelCompanyName.TabIndex = 22;
-            this.labelCompanyName.Text = "用Microsoft Visual Studio编译";
+            this.labelCompanyName.Text = "使用Microsoft Visual Studio编译";
             this.labelCompanyName.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
             // textBoxDescription
@@ -149,9 +149,7 @@
             this.textBoxDescription.Size = new System.Drawing.Size(317, 166);
             this.textBoxDescription.TabIndex = 23;
             this.textBoxDescription.TabStop = false;
-            this.textBoxDescription.Text = "第五次推翻重做第六次重构代码                               我的Bilibili空间:https://space.bilibili." +
-    "com/189781174 我的个人网站:http://light.abdosoft.cn Github链接:https://github.com/qisiji" +
-    "e/an_dark-sCalculator";
+            this.textBoxDescription.Text = resources.GetString("textBoxDescription.Text");
             // 
             // okButton
             // 
