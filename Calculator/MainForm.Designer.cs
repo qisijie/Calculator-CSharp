@@ -670,7 +670,7 @@
             this.MinimumSize = new System.Drawing.Size(836, 583);
             this.Name = "MainForm";
             this.ShowIcon = false;
-            this.Text = "长方体";
+            this.Text = "计算器";
             this.TransparencyKey = System.Drawing.Color.Transparent;
             this.Load += new System.EventHandler(this.MainForm_Load);
             this.menu.ResumeLayout(false);
