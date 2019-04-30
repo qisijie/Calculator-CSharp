@@ -1,4 +1,4 @@
-﻿/*
+/*
  * Written by 暗丶dark(an丶dark   or   an_dark)
  * My blog: light.abdosoft.cn
  * My Bilibili space: https://space.bilibili.com/189781174
@@ -29,7 +29,7 @@ namespace Calculator
          */
         Operator mode = Operator.none;
 
-        enum Selected { none, square, triangle, parallelogram, trapezium, circle, semicircle, ring, rectangle, cube, cuboid, columnar, cone, FrustumOfACone, sphere, SphericalSegment }
+        enum Selected { none, square, triangle, parallelogram, trapezium, circle, semicircle, ring, rectangle, cube, cuboid, columnar, cone, FrustumOfACone, sphere }
         /*
          * 面积计算模式
          * Area calculation mode
@@ -866,6 +866,17 @@ namespace Calculator
                         v1.Text = "棱";
                         v2.Text = "";
                         v3.Text = "";
+
+                        csmode = cs.volume;
+                        sc();
+                        break;
+                    case Selected.cuboid:
+                        Selected1.Enabled = true;
+                        Selected2.Enabled = true;
+                        Selected3.Enabled = false;
+                        v1.Text = "长";
+                        v2.Text = "宽";
+                        v3.Text = "高";
 
                         csmode = cs.volume;
                         sc();
