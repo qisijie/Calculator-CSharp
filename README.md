@@ -30,3 +30,5 @@ My calculator,and I wrote it in C# by Microsoft Visual Studio.You can change it,
 
 *****
 qq[![qqmail](img/mail.png)](mailto:1059022187@qq.com)
+
+icons by bullice(https://github.com/nullice)'s project(https://github.com/nullice/NViconsLib_Silhouette)
