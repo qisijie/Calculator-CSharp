@@ -1,9 +1,0 @@
-D:\gz\Calculator_WinForm\Calculator_WinForm\bin\Debug\Calculator_WinForm.exe.config
-D:\gz\Calculator_WinForm\Calculator_WinForm\bin\Debug\Calculator_WinForm.exe
-D:\gz\Calculator_WinForm\Calculator_WinForm\bin\Debug\Calculator_WinForm.pdb
-D:\gz\Calculator_WinForm\Calculator_WinForm\obj\Debug\Calculator_WinForm.csprojResolveAssemblyReference.cache
-D:\gz\Calculator_WinForm\Calculator_WinForm\obj\Debug\Calculator_WinForm.Main.resources
-D:\gz\Calculator_WinForm\Calculator_WinForm\obj\Debug\Calculator_WinForm.Properties.Resources.resources
-D:\gz\Calculator_WinForm\Calculator_WinForm\obj\Debug\Calculator_WinForm.csproj.GenerateResource.Cache
-D:\gz\Calculator_WinForm\Calculator_WinForm\obj\Debug\Calculator_WinForm.exe
-D:\gz\Calculator_WinForm\Calculator_WinForm\obj\Debug\Calculator_WinForm.pdb
