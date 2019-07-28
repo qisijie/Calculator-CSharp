@@ -51,3 +51,4 @@ New function demonstration
 <video width="320" height="240" controls>
     <source src="video/NF.mp4" type="video/mp4">
 </video>
+[go](https://www.bilibili.com/video/av61108711)
