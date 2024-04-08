@@ -32,20 +32,6 @@ My calculator,and I wrote it in C# by Microsoft Visual Studio.You can change it,
 |簡州貓(v2.1)|1.添加新功能 - 鍵盤輸入數字 (見下方演示). 2.修改錯誤的內容.|
 
 *****
-Where can you find me?  
-你能在哪找到我?  
-你能在哪找到我?  
-↓ Here 这里 這裡
-
-[![github](img/GitHub.png)](https://github.com/qisijie) [![bilibili](img/bilibili%20-哔哩哔哩_B.png)](https://space.bilibili.com/189781174) [![neteasycloudmusic](img/NetEase%20-%E7%BD%91%E6%98%93_music%20-%E9%9F%B3%E4%B9%90.png)](https://music.163.com/#/user/home?id=616566046)[![xiaomi](img/xiaomi%20-%E5%B0%8F%E7%B1%B3.png)](https://order.mi.com/portal?r=38760.1557405716)[![youku](img/youku%20-%E4%BC%98%E9%85%B7_B.png)](http://i.youku.com/qinsijie)[![toudou](img/tudou%20-%E5%9C%9F%E8%B1%86.png)](http://id.tudou.com/qinsijie)
-
-*****
-My mail  
-我的邮箱  
-我的郵箱  
-
-qq[![qqmail](img/mail.png)](mailto:1059022187@qq.com)
-*****
 New function demonstration  
 新功能演示  
 <video width="320" height="240" controls>
